@@ -6,6 +6,13 @@
 
 API RESTful para gerenciamento de tarefas (To-Do List) desenvolvida como desafio prático de Backend. O sistema permite criar, listar, atualizar e deletar tarefas, utilizando boas práticas de mercado como **Paginação**, **Tratamento Global de Exceções (@ControllerAdvice)** e **Documentação via Swagger (OpenAPI)**.
 
+## 🌐 API em Produção (Live)
+O projeto está hospedado e rodando na nuvem através do **Render**. Você pode testar todos os endpoints de forma interativa acessando o Swagger oficial da aplicação no link abaixo:
+
+🔗 **[Acessar a API ao vivo no Render](https://tasklistapi-bdm4.onrender.com/swagger-ui/index.html)**
+
+*(Obs: O projeto está hospedado em uma instância gratuita. O primeiro acesso do dia pode levar cerca de 50 segundos para "acordar" o servidor).*
+
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 
 - **Java 21**
