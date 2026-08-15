@@ -1,6 +1,6 @@
 # 📋 Task Management API (Gerenciador de Tarefas)
 
-![Java](https://img.shields.io/badge/Java-26-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.7-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -8,7 +8,7 @@ API RESTful para gerenciamento de tarefas (To-Do List) desenvolvida como desafio
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 
-- **Java 26**
+- **Java 21**
 - **Spring Boot 4.0.7** (WebMVC, Data JPA, Validation)
 - **H2 Database** (Banco de dados em memória)
 - **SpringDoc OpenAPI 3.0.2** (Swagger) para documentação interativa
