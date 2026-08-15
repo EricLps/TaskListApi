@@ -51,8 +51,7 @@ Com a aplicação rodando, acesse no seu navegador:
 🔗 **[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)**
 
 ### Preview dos Endpoints:
-![Swagger Preview](<img width="1521" height="799" alt="Captura de tela 2026-08-15 030158" src="https://github.com/user-attachments/assets/c0754494-0565-4247-88f3-c5ec4bafd16a" />
-)
+![Swagger Preview]("https://github.com/user-attachments/assets/c0754494-0565-4247-88f3-c5ec4bafd16a")
 
 ## 🔗 Rotas da API
 
