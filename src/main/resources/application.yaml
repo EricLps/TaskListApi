@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: ListaDeTarefas
+
+  h2:
+    console:
+      enabled: true
+
+  datasource:
+    url: jdbc:h2:mem:tasklistdb
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: sa
+
+  sql.init.mode: always
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+
