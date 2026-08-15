@@ -51,7 +51,7 @@ Com a aplicação rodando, acesse no seu navegador:
 🔗 **[http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)**
 
 ### Preview dos Endpoints:
-![Swagger Preview]("https://github.com/user-attachments/assets/c0754494-0565-4247-88f3-c5ec4bafd16a")
+![Swagger Preview](https://github.com/user-attachments/assets/c0754494-0565-4247-88f3-c5ec4bafd16a)
 
 ## 🔗 Rotas da API
 
@@ -72,4 +72,4 @@ A API responde na URL base `/tasks`.
 - **Tratamento de Exceções:** Implementação de `@ControllerAdvice` e `TaskNotFoundException` para interceptar requisições inválidas. Ao buscar ou tentar atualizar um ID que não existe, a API não retorna um erro `500 Internal Server Error`, mas sim aborta a operação com segurança e retorna um JSON amigável com Status `404 Not Found`.
 
 ---
-Desenvolvido por **[Eric LPS](https://github.com/EricLps)**.
+Desenvolvido por **[Eric Lopes](https://github.com/EricLps)**.
