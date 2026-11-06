@@ -31,7 +31,7 @@ Pré-requisitos: Ter o Java instalado na máquina.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/EricLps/sua-lista-de-tarefas.git
+   git clone https://github.com/EricLps/TaskListApi.git
    ```
 2. Entre na pasta do projeto e execute a aplicação via Maven:
    ```bash
